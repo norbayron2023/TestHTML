@@ -2,6 +2,10 @@
 body{
     background-color: blueviolet;
 }
-Page1{
-
+.Page1{
+text-align: center;
+}
+.Copy{
+    margin-top: 650px;
+    text-align: right;
 }
