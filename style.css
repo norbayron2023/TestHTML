@@ -5,6 +5,9 @@ body{
 .Page1{
 text-align: center;
 }
+.Page2{
+    text-align: left;
+}
 .Copy{
     margin-top: 650px;
     text-align: right;
