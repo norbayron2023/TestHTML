@@ -8,6 +8,14 @@ text-align: center;
 .Page2{
     text-align: center;
 }
+.Unity{
+    display: inline-block;
+    vertical-align: middle;
+}
+.info1{
+    margin-left: 15px;
+    display: inline-block;
+}
 .Copyrightstatement{
     text-align: right;
 }
